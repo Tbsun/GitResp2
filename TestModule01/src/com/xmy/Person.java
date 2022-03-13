@@ -6,4 +6,5 @@ package com.xmy;
  */
 public class Person {
     private String tel;//
+    private String name;
 }
